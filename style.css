@@ -188,5 +188,5 @@ figure {
 }
 
 audio {
-  position: absolute;
+  visibility: hidden;
 }
